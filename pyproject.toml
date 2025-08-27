@@ -31,7 +31,7 @@ dependencies = [
     "cachetools>=5.0.0,<7.0",
     "defusedxml>=0.7.1",
 ]
-version = "0.0.0"
+version = "13.7.0b0"
 
 [project.urls]
 "Homepage" = "https://deebot.readthedocs.io/"
